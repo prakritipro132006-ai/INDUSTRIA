@@ -5,9 +5,9 @@
 > **Organization:** Government of Maharashtra  
 > **Department:** Maharashtra State Innovation Society (MSInS), Department of Skills, Employment, Entrepreneurship and Innovation  
 
----
 
-## 🚀 Overview
+
+##  Overview
 
 **INDUSTRIA** is an enterprise-grade intelligence and orchestration layer designed to sit on top of industrial single-window clearance portals like **MAITRI** and **NSWS**. 
 
@@ -22,9 +22,9 @@ Instead of treating compliance as a static checklist, INDUSTRIA introduces:
 8. **Statutory Compliance Center**: Time-based tracking of recurring audits, water sample tests, and license renewals.
 9. **Smart Scheme Matching**: Algorithmic compatibility scoring for Maharashtra Package Scheme of Incentives (PSI 2019) and subsidies.
 
----
 
-## 🛠️ Tech Stack
+
+##  Tech Stack
 
 - **Framework**: React 18
 - **Build Tool**: Vite 6
@@ -33,9 +33,9 @@ Instead of treating compliance as a static checklist, INDUSTRIA introduces:
 - **Architecture**: Modular component architecture with central reactive state store (`ProjectContext`)
 - **Data Engine**: Deterministic regulatory heuristics modeled after Maharashtra industrial regulations
 
----
 
-## 🏃 How to Run the Project
+
+##  How to Run the Project
 
 1. Install dependencies:
    ```bash
@@ -57,9 +57,8 @@ Instead of treating compliance as a static checklist, INDUSTRIA introduces:
    npm run build
    ```
 
----
 
-## 🎯 The 2-Minute SIH Judge Demonstration Flow
+##  The 2-Minute SIH Judge Demonstration Flow
 
 1. **Start on Landing Page (`/`)**:
    - Point out the positioning: *"Existing systems bring approvals together; INDUSTRIA makes the journey intelligent."*
